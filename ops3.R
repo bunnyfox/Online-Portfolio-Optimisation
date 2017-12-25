@@ -2,7 +2,7 @@
 ### Online Portfolio Selection -- Gradient Descend ######################
 #########################################################################
 
-setwd('/Users/lizhuo/Documents/UVA_Statistics/6003 Optimization/project')
+
 library(quantmod)
 
 symbols <- c('MMM', 'AXP', 'AAPL', 'BA', 'CAT', 'CVX', 'CSCO', 'KO', 'DIS', 'XOM', 'GE',
